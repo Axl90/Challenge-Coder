@@ -141,11 +141,10 @@ body{
 }
 
 footer{
-    display: inline;
     position: absolute;
     bottom: 5%;
-    display: inline;
     width: 100%;
+    display: inline;
     text-align: center;
 }
 
