@@ -141,11 +141,24 @@ body{
 }
 
 footer{
+    display: inline;
     position: absolute;
-    bottom: 0%;
+    bottom: 5%;
     display: inline;
     width: 100%;
     text-align: center;
+}
+
+footer a:hover{
+    color: blue;
+    text-decoration: underline;
+}
+
+footer a{
+    color: #000000;
+    font-size: 22px;
+    text-decoration: none;
+    margin-right: 10px;
     
 }
 
